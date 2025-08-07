@@ -1,7 +1,7 @@
 {
 	"name": "jutils-blocks",
 	"version": "0.1.0",
-	"description": "JCORE module that adds jutils selectors to blocks.",
+	"description": "JCORE module that adds jutils data tag selectors to blocks.",
 	"author": "J&CO Digital <support@jco.fi>",
 	"license": "GPL-2.0-or-later",
 	"main": "build/jutils-blocks.js",

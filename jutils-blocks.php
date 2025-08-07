@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/jco-digital/jcore-utils-blocks
  * Description: JCORE module that adds jutils selectors to blocks.
  * Version: 0.1.0
- * Author: JCO Digital
+ * Author: J&CO Digital <support@jco.fi>
  * Author URI: https://jco.fi
  * Text Domain: jcore-utils-blocks
  * Domain Path: /languages
