@@ -15,10 +15,7 @@
 		"lint:js": "wp-scripts lint-js",
 		"packages-update": "wp-scripts packages-update",
 		"plugin-zip": "wp-scripts plugin-zip",
-		"start": "wp-scripts start",
-		"preversion": "npm test",
-		"version": "node versionSync.mjs && git add jutils-blocks.php",
-		"postversion": "git push && git push --tags"
+		"start": "wp-scripts start"
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
