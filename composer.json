@@ -1,5 +1,5 @@
 {
-	"name": "jcore/jutils-blocks",
+	"name": "jcore/utils-blocks",
 	"description": "JCORE module that adds jutils data tag selectors to blocks.",
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
